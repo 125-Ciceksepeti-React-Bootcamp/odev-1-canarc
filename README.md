@@ -1,1 +1,1 @@
-# ciceksepeti-bootcamp-hafta2-grup2
+# ciceksepeti-bootcamp-ödev1
